@@ -1,0 +1,17 @@
+C:\Users\Alex\source\repos\Crop Image System Game\Crop Image System Game\obj\Debug\net8.0-windows\Crop_Image_System_Game.Form1.resources
+C:\Users\Alex\source\repos\Crop Image System Game\Crop Image System Game\obj\Debug\net8.0-windows\Crop Image System Game.csproj.GenerateResource.cache
+C:\Users\Alex\source\repos\Crop Image System Game\Crop Image System Game\obj\Debug\net8.0-windows\Crop Image System Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\source\repos\Crop Image System Game\Crop Image System Game\obj\Debug\net8.0-windows\Crop Image System Game.AssemblyInfoInputs.cache
+C:\Users\Alex\source\repos\Crop Image System Game\Crop Image System Game\obj\Debug\net8.0-windows\Crop Image System Game.AssemblyInfo.cs
+C:\Users\Alex\source\repos\Crop Image System Game\Crop Image System Game\obj\Debug\net8.0-windows\Crop Image System Game.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\Crop Image System Game\Crop Image System Game\bin\Debug\net8.0-windows\Crop Image System Game.exe
+C:\Users\Alex\source\repos\Crop Image System Game\Crop Image System Game\bin\Debug\net8.0-windows\Crop Image System Game.deps.json
+C:\Users\Alex\source\repos\Crop Image System Game\Crop Image System Game\bin\Debug\net8.0-windows\Crop Image System Game.runtimeconfig.json
+C:\Users\Alex\source\repos\Crop Image System Game\Crop Image System Game\bin\Debug\net8.0-windows\Crop Image System Game.dll
+C:\Users\Alex\source\repos\Crop Image System Game\Crop Image System Game\bin\Debug\net8.0-windows\Crop Image System Game.pdb
+C:\Users\Alex\source\repos\Crop Image System Game\Crop Image System Game\obj\Debug\net8.0-windows\Crop Image System Game.dll
+C:\Users\Alex\source\repos\Crop Image System Game\Crop Image System Game\obj\Debug\net8.0-windows\refint\Crop Image System Game.dll
+C:\Users\Alex\source\repos\Crop Image System Game\Crop Image System Game\obj\Debug\net8.0-windows\Crop Image System Game.pdb
+C:\Users\Alex\source\repos\Crop Image System Game\Crop Image System Game\obj\Debug\net8.0-windows\Crop Image System Game.genruntimeconfig.cache
+C:\Users\Alex\source\repos\Crop Image System Game\Crop Image System Game\obj\Debug\net8.0-windows\ref\Crop Image System Game.dll
+C:\Users\Alex\source\repos\Crop Image System Game\Crop Image System Game\bin\Debug\net8.0-windows\bin\Debug\net8.0-windows\lies.jpg

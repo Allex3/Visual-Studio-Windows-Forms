@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EKBxUekHaFDGuX2xnwvKNIFhDjWKkS69XAKZsZP7rcBuFAOv1sWnV1sb4zLCairP1eVzY45tch+uCFae7ypbSA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Alex\\source\\repos\\Gradients wow\\Gradients wow\\Gradients wow.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alex\\.nuget\\packages\\splashscreen.windowsforms\\1.2.0\\splashscreen.windowsforms.1.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}

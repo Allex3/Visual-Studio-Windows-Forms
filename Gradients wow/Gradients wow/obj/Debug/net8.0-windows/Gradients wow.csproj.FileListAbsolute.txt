@@ -1,0 +1,19 @@
+C:\Users\Alex\source\repos\Gradients wow\Gradients wow\obj\Debug\net8.0-windows\Gradients wow.csproj.AssemblyReference.cache
+C:\Users\Alex\source\repos\Gradients wow\Gradients wow\obj\Debug\net8.0-windows\Gradients_wow.Gradformmain.resources
+C:\Users\Alex\source\repos\Gradients wow\Gradients wow\obj\Debug\net8.0-windows\Gradients wow.csproj.GenerateResource.cache
+C:\Users\Alex\source\repos\Gradients wow\Gradients wow\obj\Debug\net8.0-windows\Gradients wow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\source\repos\Gradients wow\Gradients wow\obj\Debug\net8.0-windows\Gradients wow.AssemblyInfoInputs.cache
+C:\Users\Alex\source\repos\Gradients wow\Gradients wow\obj\Debug\net8.0-windows\Gradients wow.AssemblyInfo.cs
+C:\Users\Alex\source\repos\Gradients wow\Gradients wow\obj\Debug\net8.0-windows\Gradients wow.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\Gradients wow\Gradients wow\bin\Debug\net8.0-windows\Gradients wow.exe
+C:\Users\Alex\source\repos\Gradients wow\Gradients wow\bin\Debug\net8.0-windows\Gradients wow.deps.json
+C:\Users\Alex\source\repos\Gradients wow\Gradients wow\bin\Debug\net8.0-windows\Gradients wow.runtimeconfig.json
+C:\Users\Alex\source\repos\Gradients wow\Gradients wow\bin\Debug\net8.0-windows\Gradients wow.dll
+C:\Users\Alex\source\repos\Gradients wow\Gradients wow\bin\Debug\net8.0-windows\Gradients wow.pdb
+C:\Users\Alex\source\repos\Gradients wow\Gradients wow\bin\Debug\net8.0-windows\SplashScreen.WindowsForms.dll
+C:\Users\Alex\source\repos\Gradients wow\Gradients wow\obj\Debug\net8.0-windows\Gradient.6F7F0E39.Up2Date
+C:\Users\Alex\source\repos\Gradients wow\Gradients wow\obj\Debug\net8.0-windows\Gradients wow.dll
+C:\Users\Alex\source\repos\Gradients wow\Gradients wow\obj\Debug\net8.0-windows\refint\Gradients wow.dll
+C:\Users\Alex\source\repos\Gradients wow\Gradients wow\obj\Debug\net8.0-windows\Gradients wow.pdb
+C:\Users\Alex\source\repos\Gradients wow\Gradients wow\obj\Debug\net8.0-windows\Gradients wow.genruntimeconfig.cache
+C:\Users\Alex\source\repos\Gradients wow\Gradients wow\obj\Debug\net8.0-windows\ref\Gradients wow.dll

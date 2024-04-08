@@ -1,0 +1,28 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "SplashScreen.WindowsForms/1.2.0": {
+        "runtime": {
+          "lib/net8.0-windows7.0/SplashScreen.WindowsForms.dll": {
+            "assemblyVersion": "1.2.0.0",
+            "fileVersion": "1.2.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SplashScreen.WindowsForms/1.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-13PbzDVBsnCKUUjXxHu5qCyU8eKZ8K+SkzbQyAPFLEJmRzOrIMbJEMFrGkDugM3FpMheWPTqix7gH4pNYjJTYg==",
+      "path": "splashscreen.windowsforms/1.2.0",
+      "hashPath": "splashscreen.windowsforms.1.2.0.nupkg.sha512"
+    }
+  }
+}
