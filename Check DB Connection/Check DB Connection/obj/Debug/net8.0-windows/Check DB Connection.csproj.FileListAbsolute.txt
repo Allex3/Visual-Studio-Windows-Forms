@@ -1,0 +1,24 @@
+C:\Users\Alex\source\repos\Check DB Connection\Check DB Connection\obj\Debug\net8.0-windows\Check DB Connection.csproj.AssemblyReference.cache
+C:\Users\Alex\source\repos\Check DB Connection\Check DB Connection\obj\Debug\net8.0-windows\Check_DB_Connection.Form1.resources
+C:\Users\Alex\source\repos\Check DB Connection\Check DB Connection\obj\Debug\net8.0-windows\Check DB Connection.csproj.GenerateResource.cache
+C:\Users\Alex\source\repos\Check DB Connection\Check DB Connection\obj\Debug\net8.0-windows\Check DB Connection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\source\repos\Check DB Connection\Check DB Connection\obj\Debug\net8.0-windows\Check DB Connection.AssemblyInfoInputs.cache
+C:\Users\Alex\source\repos\Check DB Connection\Check DB Connection\obj\Debug\net8.0-windows\Check DB Connection.AssemblyInfo.cs
+C:\Users\Alex\source\repos\Check DB Connection\Check DB Connection\obj\Debug\net8.0-windows\Check DB Connection.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\Check DB Connection\Check DB Connection\bin\Debug\net8.0-windows\Check DB Connection.exe
+C:\Users\Alex\source\repos\Check DB Connection\Check DB Connection\bin\Debug\net8.0-windows\Check DB Connection.deps.json
+C:\Users\Alex\source\repos\Check DB Connection\Check DB Connection\bin\Debug\net8.0-windows\Check DB Connection.runtimeconfig.json
+C:\Users\Alex\source\repos\Check DB Connection\Check DB Connection\bin\Debug\net8.0-windows\Check DB Connection.dll
+C:\Users\Alex\source\repos\Check DB Connection\Check DB Connection\bin\Debug\net8.0-windows\Check DB Connection.pdb
+C:\Users\Alex\source\repos\Check DB Connection\Check DB Connection\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\Alex\source\repos\Check DB Connection\Check DB Connection\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Alex\source\repos\Check DB Connection\Check DB Connection\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Alex\source\repos\Check DB Connection\Check DB Connection\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Alex\source\repos\Check DB Connection\Check DB Connection\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Alex\source\repos\Check DB Connection\Check DB Connection\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Alex\source\repos\Check DB Connection\Check DB Connection\obj\Debug\net8.0-windows\Check DB.336D983F.Up2Date
+C:\Users\Alex\source\repos\Check DB Connection\Check DB Connection\obj\Debug\net8.0-windows\Check DB Connection.dll
+C:\Users\Alex\source\repos\Check DB Connection\Check DB Connection\obj\Debug\net8.0-windows\refint\Check DB Connection.dll
+C:\Users\Alex\source\repos\Check DB Connection\Check DB Connection\obj\Debug\net8.0-windows\Check DB Connection.pdb
+C:\Users\Alex\source\repos\Check DB Connection\Check DB Connection\obj\Debug\net8.0-windows\Check DB Connection.genruntimeconfig.cache
+C:\Users\Alex\source\repos\Check DB Connection\Check DB Connection\obj\Debug\net8.0-windows\ref\Check DB Connection.dll
