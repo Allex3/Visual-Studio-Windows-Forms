@@ -1,0 +1,16 @@
+C:\Users\Alex\source\repos\Progress Bar\Progress Bar\bin\Debug\net8.0-windows\Progress Bar.exe
+C:\Users\Alex\source\repos\Progress Bar\Progress Bar\bin\Debug\net8.0-windows\Progress Bar.deps.json
+C:\Users\Alex\source\repos\Progress Bar\Progress Bar\bin\Debug\net8.0-windows\Progress Bar.runtimeconfig.json
+C:\Users\Alex\source\repos\Progress Bar\Progress Bar\bin\Debug\net8.0-windows\Progress Bar.dll
+C:\Users\Alex\source\repos\Progress Bar\Progress Bar\bin\Debug\net8.0-windows\Progress Bar.pdb
+C:\Users\Alex\source\repos\Progress Bar\Progress Bar\obj\Debug\net8.0-windows\Progress_Bar.Form1.resources
+C:\Users\Alex\source\repos\Progress Bar\Progress Bar\obj\Debug\net8.0-windows\Progress Bar.csproj.GenerateResource.cache
+C:\Users\Alex\source\repos\Progress Bar\Progress Bar\obj\Debug\net8.0-windows\Progress Bar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\source\repos\Progress Bar\Progress Bar\obj\Debug\net8.0-windows\Progress Bar.AssemblyInfoInputs.cache
+C:\Users\Alex\source\repos\Progress Bar\Progress Bar\obj\Debug\net8.0-windows\Progress Bar.AssemblyInfo.cs
+C:\Users\Alex\source\repos\Progress Bar\Progress Bar\obj\Debug\net8.0-windows\Progress Bar.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\Progress Bar\Progress Bar\obj\Debug\net8.0-windows\Progress Bar.dll
+C:\Users\Alex\source\repos\Progress Bar\Progress Bar\obj\Debug\net8.0-windows\refint\Progress Bar.dll
+C:\Users\Alex\source\repos\Progress Bar\Progress Bar\obj\Debug\net8.0-windows\Progress Bar.pdb
+C:\Users\Alex\source\repos\Progress Bar\Progress Bar\obj\Debug\net8.0-windows\Progress Bar.genruntimeconfig.cache
+C:\Users\Alex\source\repos\Progress Bar\Progress Bar\obj\Debug\net8.0-windows\ref\Progress Bar.dll
