@@ -1,0 +1,16 @@
+C:\Users\Alex\source\repos\System Tray\Sistem Tray\bin\Debug\net8.0-windows\Sistem Tray.exe
+C:\Users\Alex\source\repos\System Tray\Sistem Tray\bin\Debug\net8.0-windows\Sistem Tray.deps.json
+C:\Users\Alex\source\repos\System Tray\Sistem Tray\bin\Debug\net8.0-windows\Sistem Tray.runtimeconfig.json
+C:\Users\Alex\source\repos\System Tray\Sistem Tray\bin\Debug\net8.0-windows\Sistem Tray.dll
+C:\Users\Alex\source\repos\System Tray\Sistem Tray\bin\Debug\net8.0-windows\Sistem Tray.pdb
+C:\Users\Alex\source\repos\System Tray\Sistem Tray\obj\Debug\net8.0-windows\Sistem_Tray.Form1.resources
+C:\Users\Alex\source\repos\System Tray\Sistem Tray\obj\Debug\net8.0-windows\Sistem Tray.csproj.GenerateResource.cache
+C:\Users\Alex\source\repos\System Tray\Sistem Tray\obj\Debug\net8.0-windows\Sistem Tray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\source\repos\System Tray\Sistem Tray\obj\Debug\net8.0-windows\Sistem Tray.AssemblyInfoInputs.cache
+C:\Users\Alex\source\repos\System Tray\Sistem Tray\obj\Debug\net8.0-windows\Sistem Tray.AssemblyInfo.cs
+C:\Users\Alex\source\repos\System Tray\Sistem Tray\obj\Debug\net8.0-windows\Sistem Tray.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\System Tray\Sistem Tray\obj\Debug\net8.0-windows\Sistem Tray.dll
+C:\Users\Alex\source\repos\System Tray\Sistem Tray\obj\Debug\net8.0-windows\refint\Sistem Tray.dll
+C:\Users\Alex\source\repos\System Tray\Sistem Tray\obj\Debug\net8.0-windows\Sistem Tray.pdb
+C:\Users\Alex\source\repos\System Tray\Sistem Tray\obj\Debug\net8.0-windows\Sistem Tray.genruntimeconfig.cache
+C:\Users\Alex\source\repos\System Tray\Sistem Tray\obj\Debug\net8.0-windows\ref\Sistem Tray.dll
