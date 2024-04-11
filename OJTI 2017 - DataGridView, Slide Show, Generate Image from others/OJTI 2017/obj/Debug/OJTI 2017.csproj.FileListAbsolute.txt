@@ -1,0 +1,12 @@
+D:\VS Windows Forms\OJTI 2017\OJTI 2017\bin\Debug\OJTI 2017.exe
+D:\VS Windows Forms\OJTI 2017\OJTI 2017\bin\Debug\OJTI 2017.exe.config
+D:\VS Windows Forms\OJTI 2017\OJTI 2017\obj\Debug\OJTI 2017.csproj.AssemblyReference.cache
+D:\VS Windows Forms\OJTI 2017\OJTI 2017\obj\Debug\OJTI_2017.TurismMain.resources
+D:\VS Windows Forms\OJTI 2017\OJTI 2017\obj\Debug\OJTI_2017.GenerarePosterMain.resources
+D:\VS Windows Forms\OJTI 2017\OJTI 2017\obj\Debug\OJTI_2017.Properties.Resources.resources
+D:\VS Windows Forms\OJTI 2017\OJTI 2017\obj\Debug\OJTI_2017.VizualizareExcursieMain.resources
+D:\VS Windows Forms\OJTI 2017\OJTI 2017\obj\Debug\OJTI 2017.csproj.GenerateResource.cache
+D:\VS Windows Forms\OJTI 2017\OJTI 2017\obj\Debug\OJTI 2017.csproj.CoreCompileInputs.cache
+D:\VS Windows Forms\OJTI 2017\OJTI 2017\obj\Debug\OJTI 2017.exe
+D:\VS Windows Forms\OJTI 2017\OJTI 2017\obj\Debug\OJTI 2017.pdb
+D:\VS Windows Forms\OJTI 2017\OJTI 2017\bin\Debug\OJTI 2017.pdb
